@@ -25,12 +25,8 @@ Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00
 | 25-06-2025 | NU-6A91  |
 
 
-Note in the week of 23-04-2025, the setting will be different. Potential extra meeting spots the week after.
+Note that in the week of 23-04-2025 the setting will be different. Potential extra meeting spots the week of 30-04-2025.
 
-
-
-
-Note this will likely change every week.
 
 ## Contact
 - Prof. dr. Siem Jan Koopman: [s.j.koopman@vu.nl](mailto:s.j.koopman@vu.nl)
