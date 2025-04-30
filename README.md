@@ -1,4 +1,4 @@
-# Bachelor Theses
+# Master Theses
 Welcome! This page will contain information and code for the master theses under supervision of Prof. dr. Siem Jan Koopman. The topics of these theses are GAS and State Space models. Additional material for Stochastic Volatility models are available [here](). Furthermore, old theses are available [here]()(later added).
 
 ## Important dates
